@@ -1,5 +1,9 @@
 # Intercom for Cordova/PhoneGap
 
+## 7.2.1 (2020-03-25)
+
+* Reorganize plugin to root to support adding from Git URL with Cordova CLI
+
 ## 7.2.0 (2020-03-25)
 
 * Upgraded to version 6.0.0 of the iOS SDK.
